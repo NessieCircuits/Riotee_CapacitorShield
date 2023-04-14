@@ -924,28 +924,6 @@
     (pin "1" (uuid da5c6f08-7948-48fe-8a74-12441565d0d8))
   )
 
-  (symbol (lib_id "Device:C") (at 135.89 123.19 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 300df69c-762f-456d-be14-0bab21976866)
-    (property "Reference" "C?" (id 0) (at 138.811 122.3553 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "220u" (id 1) (at 138.811 124.8922 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (id 2) (at 136.8552 127 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 135.89 123.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "MPN" "GRM31CR60J227ME11K" (id 4) (at 135.89 123.19 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 30dd63b3-84e9-46c9-8aa3-449ea7e41677))
-    (pin "2" (uuid 40c687bc-6d8e-4c7b-bb6c-89c695ec19a8))
-  )
-
   (symbol (lib_id "Connector_Generic:Conn_01x10") (at 247.65 105.41 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 56c66222-97f3-409c-a021-2df82ccc537c)
@@ -1200,9 +1178,6 @@
     )
     (path "/63aff374-009d-4015-ade1-b3a3dfaf444e"
       (reference "C8") (unit 1) (value "220m") (footprint "riotee:KM_FG0H103ZF")
-    )
-    (path "/300df69c-762f-456d-be14-0bab21976866"
-      (reference "C?") (unit 1) (value "220u") (footprint "Capacitor_SMD:C_1210_3225Metric")
     )
     (path "/8cd77b36-58e3-4bbf-a33d-5f41d0026d26"
       (reference "J1") (unit 1) (value "Conn_01x12") (footprint "riotee:PinSocket_1x12_P2.54mm_Vertical")
