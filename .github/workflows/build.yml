@@ -13,7 +13,7 @@ jobs:
 
     - uses: INTI-CMNB/KiBot@v2_k7
       with:
-        config: kibot_config.yml
+        config: kibot_build.yml
         dir: kibot_outputs
         schema: 'kicad/riotee-cap-shield.kicad_sch'
         board: 'kicad/riotee-cap-shield.kicad_pcb'
