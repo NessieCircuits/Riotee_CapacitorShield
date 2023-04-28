@@ -1,0 +1,56 @@
+{
+    "layout": {
+        "type": "grid",
+        "rows": 5,
+        "cols": 2,
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rotation": "180deg",
+        "alternation": "cols",
+        "renamenet": "Board_{n}-{orig}",
+        "renameref": "{orig}"
+    },
+    "source": {
+        "type": "auto",
+        "tolerance": "50mm"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vcount": 1,
+        "hcount": 1
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "-0.25mm"
+    },
+    "framing": {
+        "type": "frame",
+        "width": "10mm"
+    },
+    "post": {
+        "type": "auto",
+        "millradius": "1mm",
+        "refillzones": true
+    },
+    "copperfill": {
+        "type": "hatched",
+        "width": "0.5mm",
+        "spacing": "1mm",
+        "orientation": "0deg",
+        "layers": "F.Cu,B.Cu",
+        "clearance": "1mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "5mm",
+        "voffset": "5mm",
+        "coppersize": "2mm",
+        "opening": "2.5mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "10mm",
+        "voffset": "5mm",
+        "size": "2mm"
+    }
+}

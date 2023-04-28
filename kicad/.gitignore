@@ -1,9 +1,8 @@
-*.kicad_sch-bak
-*-backups/*
+fp-info-cache
 *.kicad_prl
-*.bak
-*.csv
 *.xml
-\#auto_saved_files#
-_autosave-*.kicad_pcb
-gerber/
+*-backups
+*.csv
+
+riotee-cap-shield-panel.kicad_pcb
+riotee-cap-shield-panel.kicad_pro
