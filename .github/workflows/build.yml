@@ -1,4 +1,4 @@
-name: Kibot
+name: Kibot build
 
 on:
   push:
