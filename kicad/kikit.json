@@ -25,7 +25,7 @@
     },
     "framing": {
         "type": "frame",
-        "width": "10mm"
+        "width": "12.7mm"
     },
     "post": {
         "type": "auto",
