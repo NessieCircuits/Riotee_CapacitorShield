@@ -9,5 +9,7 @@ Latest design files:
  - [Schematics](https://www.riotee.nessie-circuits.de/artifacts/capacitor_shield/latest/schematics.pdf)
  - [Layout](https://www.riotee.nessie-circuits.de/artifacts/capacitor_shield/latest/pcb.pdf)
  - [Rendering](https://www.riotee.nessie-circuits.de/artifacts/capacitor_shield/latest/3drendering.png "Riotee capacitor shield")
+ - [Gerber](https://www.riotee.nessie-circuits.de/artifacts/capacitor_shield/latest/gerber.zip)
+ - [BOM](https://www.riotee.nessie-circuits.de/artifacts/capacitor_shield/latest/bom.csv)
 
 ![Rendering](https://www.riotee.nessie-circuits.de/artifacts/capacitor_shield/latest/3drendering.png "Riotee capacitor shield")
