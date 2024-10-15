@@ -22,7 +22,7 @@ jobs:
       run: sudo chown -R 1001:1001 kibot_outputs
 
     - name: Upload artifacts to github
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v4
       with:
         name: artifacts
         path: kibot_outputs
